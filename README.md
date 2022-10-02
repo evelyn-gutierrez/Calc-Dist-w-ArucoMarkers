@@ -1,13 +1,12 @@
 # Calculating Distances and Angles of Observation using Aruco Markers
 
   Automated calculation of distances using Aruco Markers and image processing in 2 steps: 
-  
-  Calculo automático de distancias usando imágenes con Aruco Markers.
-  
- 
+   
  1. Camera Calibration.
  2. Detection of markers.
 
+
+(Spanish)   Calculo automático de distancias usando imágenes con Aruco Markers.
 
 ## References:
 
