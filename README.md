@@ -1,4 +1,4 @@
-# Calc-Dist-w-ArucoMarkers
+# Calculating Distances and Angles of Observation using Aruco Markers
 
   Automated calculation of distances using Aruco Markers and image processing in 2 steps: 
   
